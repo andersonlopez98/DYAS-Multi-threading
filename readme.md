@@ -255,9 +255,7 @@ public class CallableExample {
    - Asegúrate de comentar tu código para explicar qué hace cada parte y cómo se gestionan los hilos.
 4. **Probar y Depurar:**
    - Ejecuta tu código y verifica que funcione como esperas. Asegúrate de manejar cualquier posible error.
-5. **Compartir y Discut
-
-ir:**
+5. **Compartir y Discutir:**
    - Comparte tu código con los demás estudiantes del taller. Discutan sobre las diferentes implementaciones y enfoques utilizados.
 
 **Ejemplo de Código para los Estudiantes:**
